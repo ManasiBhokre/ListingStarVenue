@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="nav_all_matches">All Matches</string>
+    <string name="nav_saved_matches">Saved Matches</string>
+    <string name="navigation_drawer_open">Drawer open</string>
+    <string name="navigation_drawer_close">Drawer close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
